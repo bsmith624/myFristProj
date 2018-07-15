@@ -1,3 +1,5 @@
+// Creating my frist project
+
 function greeter(person) {
     return "Hello, " + person;
 }
