@@ -2,6 +2,7 @@
 
 function greeter(person) {
     return "Hello, " + person;
+    console.log("This worked");
 }
 
 let user = "Brian Smith";
